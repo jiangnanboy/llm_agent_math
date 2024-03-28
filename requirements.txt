@@ -1,0 +1,12 @@
+langchain-groq
+chainlit
+langchain
+langchain-cli
+langchain-community
+langchain-core
+langdetect
+langserve
+langsmith
+Flask
+flask-siwadoc
+gevent
